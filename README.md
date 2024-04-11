@@ -1,1 +1,8 @@
 # mtm6201_final
+## Credits 
+i used hover.css library: https://ianlunn.github.io/Hover/
+
+**Tell us about your process, challenges you faced during development and how you overcame those changes. What have you learned while working on this project?**
+
+## The Process
+I had to decide which page would be the simplest to complete during this process because I am still learning how to code, so I went with the easiest one. I remember that in order for the design of my website to function, I had to deal with some difficulties with the primary and secondary colours. Fortunately, I was able to identify the issue and make the necessary changes; it turned out that "teritary" did not exist. I was having trouble making the map larger and fit better, but it kept leaving a large white space. Luckily, I was able to look it over and discovered the issue about twenty minutes later. Among the difficulties I encountered were attempting to center the logo, move the hamburger menu to the left, and move the search and "EN" to the left on the tablet and desktop versions. To figure out how to center it, I looked for any resources on bootstrap. Unfortunately, I was unable to complete that step because I could not locate it on bootstrap. However, I was able to obtain a reasonably accurate representation of the navbar. Positively, I was able to make my menu bar, text, map, and buttons function. Working on this assignment taught me more about aria-roles, how to use the schema, and how to use bootstrap. The main obstacle I faced while working on this project was trying to make it as similar as possible to my mockup. 
